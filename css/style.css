@@ -1,0 +1,23 @@
+body {
+    font-family: 'Open sans', sans-serif;
+}
+
+.brand-font {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+.footer {
+    font-size: 14px;
+}
+
+.footer-header {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
